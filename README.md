@@ -1,4 +1,4 @@
-# WorkAdventure Map Starter Kit
+# WorkAdventure VPH Studios DOJO
 
 ![map](./map.png)
 
